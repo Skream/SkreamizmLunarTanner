@@ -1,0 +1,11 @@
+Skreamizm Lunar Tanner
+
+Tans dragonhides with the Make Leather spell in the Lunar spellbook.
+
+~CHANGELOG~
+
+-v1.0 initial release
+
+~KNOWN BUGS~
+
+-no method to stop the script once it's out of hides (doesn't matter too much because it just afks with bank open).
